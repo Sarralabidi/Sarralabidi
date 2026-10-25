@@ -32,7 +32,7 @@ I used multi-stage Docker builds to reduce image size by 40% ,worked on resource
 
 Tools I reach for
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,jenkins,git,python,bash,java,typescript,mysql&perline=6" alt="Linux, Docker, Kubernetes, Ansible, Jenkins, Git, Python, Bash, Java, TypeScript and MySQL" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,jenkins,git,python,bash,java,typescript,mysql&perline=6" alt="Linux, Docker, Kubernetes, Ansible, Jenkins, Git, Python, Bash, Java, TypeScript, Dynatrace, Opentelemetry and MySQL" />
 </p>
 
 A few numbers from my work
@@ -43,4 +43,4 @@ Say hi
 If you're working on cloud platforms, Kubernetes, developer tooling or observability, I'd be happy to connect.
 - LinkedIn
 - Email
-<sub>Currently looking for my first full-time role in DevOps, Cloud, Platform Engineering or Observability. Open to remote work and relocation.</sub>
+Currently looking for my first full-time role in DevOps, Cloud, Platform Engineering or Observability. Open to remote work and relocation.
