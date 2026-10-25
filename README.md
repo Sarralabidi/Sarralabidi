@@ -48,8 +48,3 @@ A few numbers from my work
 - 11 logging, metrics and tracing solutions benchmarked during my observability project.
 - 40% reduction in Docker image size through multi-stage builds during my LLM deployment work.
 - 30% improvement in API troubleshooting time reported for my cross-component traceability work.
-Say hi
-If you're working on cloud platforms, Kubernetes, developer tooling or observability, I'd be happy to connect.
-- LinkedIn
-- Email
-Currently looking for my first full-time role in DevOps, Cloud, Platform Engineering or Observability. Open to remote work and relocation.
