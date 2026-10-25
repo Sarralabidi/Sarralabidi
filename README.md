@@ -30,10 +30,19 @@ I used multi-stage Docker builds to reduce image size by 40% ,worked on resource
 **What I worked with:** Linux · Docker · Kubernetes · Helm · Prometheus · Grafana · LLMs
 
 
-Tools I reach for
+
+<h3>🛠️ Tools I reach for</h3>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,jenkins,git,python,bash,java,typescript,mysql&perline=6" alt="Linux, Docker, Kubernetes, Ansible, Jenkins, Git, Python, Bash, Java, TypeScript, Dynatrace, Opentelemetry and MySQL" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,jenkins,git,python,bash,java,typescript,mysql&perline=6" alt="Linux, Docker, Kubernetes, Ansible, Jenkins, Git, Python, Bash, Java, TypeScript and MySQL" />
 </p>
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/dynatrace/1496FF" alt="Dynatrace" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opentelemetry/F5A800" alt="OpenTelemetry" height="40" />
+</p>
+
 
 A few numbers from my work
 - 11 logging, metrics and tracing solutions benchmarked during my observability project.
